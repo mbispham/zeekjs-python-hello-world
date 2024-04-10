@@ -1,0 +1,14 @@
+[package]
+script_dir = scripts
+summary = Python -> ZeekJS Hello World
+description = Hello World -> Python to ZeekJS.
+
+[template]
+source = https://github.com/zeek/package-template
+version = v3.1.0
+zkg_version = 3.0.1
+
+[template_vars]
+name = zeekjs-python-hello-world
+license = bsd-3
+
